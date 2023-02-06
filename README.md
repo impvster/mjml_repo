@@ -6,11 +6,18 @@
   
  <div align="center">
    <details>
-    <summary>Colaboradores</summary>
-      * [Gabriel Veiga](https://github.com/impvster)
-      * [Afonso Martins](https://github.com/AfonsoMartins12)
-      * [Sajjan Poudel](https://github.com/sajjan-poudel-escola)
-      * [Paulo Pinho](https://github.com/Paulo20042023)
+  <summary>See more</summary>
+
+  ###
+
+  * [Styled Icons (Feather Icons)](https://styled-icons.js.org)
+  * [Styled Media Query](https://github.com/morajabi/styled-media-query)
+  * [Framer Motion](https://framer.com/motion/)
+  * [HTML Prettify](https://github.com/Dmc0125/html-prettify)
+  * [React Share](https://github.com/nygardk/react-share)
+  * [Prismjs](https://prismjs.com)
+  * [UUID](https://www.npmjs.com/package/uuid)
+
 </details>
     
   </div>
