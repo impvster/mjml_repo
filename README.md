@@ -1,3 +1,9 @@
-# mjml_repo
+# MJML-Project
 
-absolute chad
+<html>
+
+##Colaboradores
+ - Gabriel Veiga (<a href="https://github.com/impvster">@impvster</a>)
+
+
+</html>
