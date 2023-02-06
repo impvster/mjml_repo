@@ -15,28 +15,28 @@
   
   <div align="center">
   <h3>NewsLetter Information</h3>
+  <h4>Boas práticas para a utilização de dispositivos móveis em viagem</h4>
+    <h5>Manter as informações em segurança.</h5>
+   <br>
+    <h4>Antes de sair do país;</h4>
+    <h5>Ler e seguir atentamente as normas de segurança estabelecidas pela organização.</h5>
+    <h5>Estar ciente das leis locais.</h5>
+    <h5>Selecionar os erquipamentos que se vai usar nas viagens.</h5>
+    <h5>Fazer backup dos seus dados e deixar num local seguro.</h5>
+    <h5>Evitar viajar com dados sensiveis.</h5>
+    <h5>Usar um protetor de ecra no seu computador.</h5>
+    <h5>Marcar o seu equipamento com, por exemplo, um autocolante.</h5>
   </div>
 
-Boas práticas para a utilização de dispositivos móveis em viagem
-
-Manter as informações em segurança.
 
 
-Antes de sair do país
 
-Ler e seguir atentamente as normas de segurança estabelecidas pela organização
 
-Estar ciente das leis locais
 
-Selecionar os erquipamentos que se vai usar nas viagens
 
-fazer backup dos seus dados e deixar num local seguro
 
-Evitar viajar com dados sensiveis
 
-Usar um protetor de ecra no seu computador
 
-Marcar o seu equipamento com, por exemplo, um autocolante
 
 
 Durante a viagem
