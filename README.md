@@ -6,13 +6,16 @@
   
  <div align="center">
    <details>
-  <summary>See more</summary>
+  <summary>Colaboradores</summary>
 
   ###
 
   [Gabriel Veiga](https://github.com/impvster)
+     |
   [Afonso Martins](https://github.com/AfonsoMartins12)
+     |
   [Sajjan Poudel](https://github.com/sajjan-poudel-escola)
+     |
   [Paulo Pinho](https://github.com/Paulo20042023)
 </details>
     
