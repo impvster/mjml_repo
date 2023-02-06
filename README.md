@@ -18,10 +18,14 @@
      |
   [Paulo Pinho](https://github.com/Paulo20042023)
 </details>
+  </div>
 
+  <div align="center">
   <h3>Boas práticas para a utilização de dispositivos móveis em viagem</h3>
     <h4>Manter as informações em segurança.</h4>    
+  </div>
    ## ##
+  <div align="center">
     <h3>Antes de sair do país:</h3>
     <h4>Ler e seguir atentamente as normas de segurança estabelecidas pela organização.</h4>
     <h4>Estar ciente das leis locais.</h4>
@@ -30,7 +34,9 @@
     <h4>Evitar viajar com dados sensiveis.</h4>
     <h4>Usar um protetor de ecra no seu computador.</h4>
     <h4>Marcar o seu equipamento com, por exemplo, um autocolante.</h4>
+  </div>
     ## ##
+  <div align="center">
     <h3>Durante a Viagem:</h3>
     <h4>Mantenha os seus equipamentos e arquivos sempre consigo.</h4>
 <h4>Proteja o acesso aos seus dispositivos com passwords fortes.</h4>
