@@ -7,6 +7,7 @@
  <div align="center">
    <details>
   <summary>Colaboradores</summary>
+     <details>
     * [Gabriel Veiga](https://github.com/impvster)
     * [Afonso Martins](https://github.com/AfonsoMartins12)
     * [Sajjan Poudel](https://github.com/sajjan-poudel-escola)
