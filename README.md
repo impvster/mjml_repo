@@ -4,7 +4,7 @@
  </div>
  
  <div align="center">
-  <h3>Collaboradores</h3>
+  <h3>Colaboradores</h3>
     Gabriel Veiga (<a href="https://github.com/impvster">@impvster</a>) <br>
     Afonso Martins (<a href="https://github.com/AfonsoMartins12">@AfonsoMartins12</a>) <br>
     Sajjan Poudel (<a href="https://github.com/sajjan-poudel-escola">@Sajjan-Poudel-Escola</a>) <br>
