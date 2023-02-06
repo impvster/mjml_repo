@@ -10,7 +10,7 @@
 
   ###
 
-  * [Styled Icons (Feather Icons)](https://styled-icons.js.org)
+  * [Gabriel Veiga](https://github.com/impvster)
   * [Styled Media Query](https://github.com/morajabi/styled-media-query)
   * [Framer Motion](https://framer.com/motion/)
   * [HTML Prettify](https://github.com/Dmc0125/html-prettify)
@@ -21,6 +21,14 @@
 </details>
     
   </div>
+  
+  <details>
+    <summary>Colaboradores</summary>
+      * [Gabriel Veiga](https://github.com/impvster)
+      * [Afonso Martins](https://github.com/AfonsoMartins12)
+      * [Sajjan Poudel](https://github.com/sajjan-poudel-escola)
+      * [Paulo Pinho](https://github.com/Paulo20042023)
+</details>
   
   <details>
   <summary>See more</summary>
