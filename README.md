@@ -3,19 +3,18 @@
   <h1>Projeto em MJML</h1>
  </div>
  
- <div align="center">
-  <h3>Colaboradores</h3>
-    Gabriel Veiga (<a href="https://github.com/impvster" target="_blank">@impvster</a>) <br>
-    Afonso Martins (<a href="https://github.com/AfonsoMartins12" target="_blank">@AfonsoMartins12</a>) <br>
-    Sajjan Poudel (<a href="https://github.com/sajjan-poudel-escola" target="_blank">@Sajjan-Poudel-Escola</a>) <br>
-    Paulo Pinho (<a href="https://github.com/Paulo20042023" target="_blank">@Paulo20042023</a>)
-  </div>
   
-<details>
-  <summary>See more</summary>
+ <div align="center">
+   <details>
+  <summary>Colaboradores</summary>
 
   ###
 
+    * Gabriel Veiga (<a href="https://github.com/impvster" target="_blank">@impvster</a>) <br>
+    * Afonso Martins (<a href="https://github.com/AfonsoMartins12" target="_blank">@AfonsoMartins12</a>) <br>
+    * Sajjan Poudel (<a href="https://github.com/sajjan-poudel-escola" target="_blank">@Sajjan-Poudel-Escola</a>) <br>
+    * Paulo Pinho (<a href="https://github.com/Paulo20042023" target="_blank">@Paulo20042023</a>)
+     
   * [Styled Icons (Feather Icons)](https://styled-icons.js.org)
   * [Styled Media Query](https://github.com/morajabi/styled-media-query)
   * [Framer Motion](https://framer.com/motion/)
@@ -25,6 +24,10 @@
   * [UUID](https://www.npmjs.com/package/uuid)
 
 </details>
+    
+  </div>
+  
+
   
   <div align="center">
   <h3>Boas práticas para a utilização de dispositivos móveis em viagem</h3>
