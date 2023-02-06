@@ -10,19 +10,10 @@
 
   ###
 
-    * Gabriel Veiga (<a href="https://github.com/impvster" target="_blank">@impvster</a>) <br>
-    * Afonso Martins (<a href="https://github.com/AfonsoMartins12" target="_blank">@AfonsoMartins12</a>) <br>
-    * Sajjan Poudel (<a href="https://github.com/sajjan-poudel-escola" target="_blank">@Sajjan-Poudel-Escola</a>) <br>
-    * Paulo Pinho (<a href="https://github.com/Paulo20042023" target="_blank">@Paulo20042023</a>)
-     
-  * [Styled Icons (Feather Icons)](https://styled-icons.js.org)
-  * [Styled Media Query](https://github.com/morajabi/styled-media-query)
-  * [Framer Motion](https://framer.com/motion/)
-  * [HTML Prettify](https://github.com/Dmc0125/html-prettify)
-  * [React Share](https://github.com/nygardk/react-share)
-  * [Prismjs](https://prismjs.com)
-  * [UUID](https://www.npmjs.com/package/uuid)
-
+    * [Gabriel Veiga] (https://github.com/impvster)
+    * [Afonso Martins] (https://github.com/AfonsoMartins12)
+    * [Sajjan Poudel] (https://github.com/sajjan-poudel-escola)
+    * [Paulo Pinho] (https://github.com/Paulo20042023)
 </details>
     
   </div>
