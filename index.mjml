@@ -8,7 +8,9 @@
   <mj-body background-color="#eee">
     <mj-section>
       <mj-column width="33.33333333333333%">
-        <mj-image src="https://www.esjaloures.org/escola/images/Untitled-1.png" alt="OnePage" padding-bottom="0px" padding-top="10px" align="left"></mj-image>
+        <mj-image src="https://www.esjaloures.org/escola/images/Untitled-1.png" alt="ESJAL" padding-bottom="0px" padding-top="10px" align="left"></mj-image>
+        
+        <mj-image src="https://drive.google.com/uc?id=1ZQhUVIbtRA6etZ0-8PiUXxm5BgdXdGge" alt="dcidado seguro yep" padding-bottom="0px" padding-top="10px" align="left"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -38,13 +40,7 @@
       </mj-column>
     </mj-section>
     <mj-section padding-bottom="0px" padding-top="0px">
-      <mj-column>
-        <mj-text container-background-color="gray" padding-top="12px" color="#ffffff" padding-bottom="0px" padding-top="0px" font-family="Helvetica,Arial,sans-serif" font-size="10px" line-height="12px">Seu endereço de e-mail está nesta lista como resultado de uma assinatura, solicitação de informações, concurso ou outra correspondência que você possa ter tido conosco no passado. Se você gostaria de ser removido de nossa lista, verifique o endereço de e-mail desta newsletter foi enviado para e use o seguinte link: <a href="#" style="text-decoration:none;color:#2DDCB4">Cancelar subscrição</a>.Política de privacidade disponível <a href="#" style="text-decoration:none;color:#2DDCB4">aqui</a>. </mj-text>
-        <mj-text container-background-color="gray" color="#FFFFFF" padding-bottom="0px" font-family="Helvetica,Arial,sans-serif" font-size="10px" line-height="12px">esjanews: <a href="#" style="text-decoration:none;color:#2DDCB4">https://www.esjanews.pt</a> - Contact: <a href="" style="text-decoration:none;color:#2DDCB4">info</a>
-          <br /> Address: Rua da República, 2670-468 Loures,Portugal <br />
-        </mj-text>
-        <mj-divider padding-left="0px" padding-right="0px"></mj-divider>
-      </mj-column>
+      
     </mj-section>
   </mj-body>
 </mjml>
