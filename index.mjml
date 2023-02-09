@@ -31,8 +31,12 @@
      <mj-column>
        <mj-text font-size="23px" padding-bottom="0px" padding-top="0" font-family="sanf-sarif" >Antes do saír do país</mj-text>
     </mj-section>
+      
     <mj-section>
+
+      
       <mj-column>
+        <mj-image align="center" alt="Boas viagens!" container-background-color="#ffffff" padding="0" width="400px" src="https://drive.google.com/uc?id=1DmD_hI1xDJyhUTDQ1vioYuvskZGUBUEl" width="600px" ></mj-image>
         <mj-text>Ler e seguir atentamente as normas de segurança estabelecidas pela organização.</mj-text>
         <mj-text>Estar ciente das leis locais.</mj-text>
         <mj-text>Fazer backup dos seus dados e deixar num local seguro.</mj-text>
@@ -45,9 +49,7 @@
       
         <mj-text>Marcar o seu equipamento com, por exemplo, um autocolante.</mj-text>
       </mj-column>
-      <mj-column>
-          <mj-image  align="center" alt="Boas viagens!" container-background-color="#ffffff" padding="0" src="https://drive.google.com/uc?id=1DmD_hI1xDJyhUTDQ1vioYuvskZGUBUEl" width="600px" ></mj-image>
-        </mj-column>
+      
     </mj-section>
      
       
