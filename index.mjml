@@ -1,68 +1,48 @@
 <mjml>
-
   <mj-head>
-
     <mj-attributes>
       <mj-text align="center" color="#555" />
       <mj-section background-color="#fff" />
     </mj-attributes>
-    
   </mj-head>
-
   <mj-body background-color="#eee">
-    
     <mj-section>
       <mj-column width="33.33333333333333%">
-        
-        <mj-image 
- src="https://www.esjaloures.org/escola/images/Untitled-1.png" alt="OnePage" padding-bottom="0px" padding-top="10px" align ="left"></mj-image>	
+        <mj-image src="https://www.esjaloures.org/escola/images/Untitled-1.png" alt="OnePage" padding-bottom="0px" padding-top="10px" align="left"></mj-image>
       </mj-column>
-    </mj-section>
-    
-   <mj-section>
-     <mj-column><mj-text font-size="25px" padding-bottom="0px" padding-top="0" font-family="sanf-sarif" >Boas práticas para a utilização de dispositivos móveis em viagem</mj-text></mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-       <mj-image align="center" alt="Boas viagens!" container-background-color="#ffffff" padding="0" src="https://drive.google.com/uc?id=1iohNipFlxJ2W04yeZOBA_27YL2gy0Efl" width="600px"></mj-image>
+        <mj-text font-size="25px" padding-bottom="0px" padding-top="0" font-family="sanf-sarif">Boas práticas para a utilização de dispositivos móveis em viagem</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
-     <mj-column>
-       <mj-text font-size="23px" padding-bottom="0px" padding-top="0" font-family="sanf-sarif" >Antes do saír do país</mj-text>
-    </mj-section>
-      
-    <mj-section>
-
-      
       <mj-column>
-        <mj-image align="center" alt="Boas viagens!" container-background-color="#ffffff" padding="0" width="400px" src="https://drive.google.com/uc?id=1DmD_hI1xDJyhUTDQ1vioYuvskZGUBUEl" width="600px" ></mj-image>
-        <mj-text>Ler e seguir atentamente as normas de segurança estabelecidas pela organização.</mj-text>
-        <mj-text>Estar ciente das leis locais.</mj-text>
-        <mj-text>Fazer backup dos seus dados e deixar num local seguro.</mj-text>
-      
-        <mj-text>Selecionar os erquipamentos que se vai usar nas viagens.</mj-text>
-     
-        <mj-text>Evitar viajar com dados sensiveis.</mj-text>
-     
-        <mj-text>Usar um protetor de ecra no seu computador.</mj-text>
-      
-        <mj-text>Marcar o seu equipamento com, por exemplo, um autocolante.</mj-text>
+        <mj-image align="center" alt="Boas viagens!" container-background-color="#ffffff" padding="0" src="https://drive.google.com/uc?id=1iohNipFlxJ2W04yeZOBA_27YL2gy0Efl" width="600px"></mj-image>
       </mj-column>
-      
     </mj-section>
-     
-      
-      
-      
-      
-      
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="23px" padding-bottom="0px" padding-top="0" font-family="sanf-sarif">Antes do saír do país</mj-text>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image align="center" alt="Boas viagens!" container-background-color="#ffffff" padding-bottom="35px" width="400px" src="https://drive.google.com/uc?id=1DmD_hI1xDJyhUTDQ1vioYuvskZGUBUEl" width="600px"></mj-image>
+        <mj-text align="left" padding-bottom="2px">	Ler e seguir atentamente as normas de segurança estabelecidas pela organização.</mj-text>
+        <mj-text align="left" padding-bottom="2px">	Estar ciente das leis locais.</mj-text>
+        <mj-text align="left" padding-bottom="2px">Fazer backup dos seus dados e deixar num local seguro.</mj-text>
+        <mj-text align="left" padding-bottom="2px">Selecionar os erquipamentos que se vai usar nas viagens.</mj-text>
+        <mj-text align="left" padding-bottom="2px">Evitar viajar com dados sensiveis.</mj-text>
+        <mj-text align="left" padding-bottom="2px">Usar um protetor de ecra no seu computador.</mj-text>
+        <mj-text align="left" padding-bottom="2px">Marcar o seu equipamento com, por exemplo, um autocolante.</mj-text>
+      </mj-column>
+    </mj-section>
     <mj-section padding-bottom="0px" padding-top="0px">
-      <mj-column >
-        <mj-text  container-background-color="gray" padding-top="12px" color="#ffffff" padding-bottom="0px" padding-top="0px" font-family="Helvetica,Arial,sans-serif" font-size="10px" line-height="12px">Seu endereço de e-mail está nesta lista como resultado de uma assinatura, solicitação de informações, concurso ou outra correspondência que você possa ter tido conosco no passado. Se você gostaria de ser removido de nossa lista, verifique o endereço de e-mail desta newsletter
-          foi enviado para e use o seguinte link: <a href="#" style="text-decoration:none;color:#2DDCB4">Cancelar subscrição</a>.Política de privacidade disponível <a href="#" style="text-decoration:none;color:#2DDCB4">aqui</a>.</mj-text>
-        <mj-text container-background-color="gray" color="#FFFFFF" padding-bottom="0px" font-family="Helvetica,Arial,sans-serif" font-size="10px" line-height="12px">esjanews: <a href="#" style="text-decoration:none;color:#2DDCB4">https://www.esjanews.pt</a> - Contact: <a href="" style="text-decoration:none;color:#2DDCB4">info</a><br /> 
-Address: Rua da República, 2670-468 Loures,Portugal<br /></mj-text>
+      <mj-column>
+        <mj-text container-background-color="gray" padding-top="12px" color="#ffffff" padding-bottom="0px" padding-top="0px" font-family="Helvetica,Arial,sans-serif" font-size="10px" line-height="12px">Seu endereço de e-mail está nesta lista como resultado de uma assinatura, solicitação de informações, concurso ou outra correspondência que você possa ter tido conosco no passado. Se você gostaria de ser removido de nossa lista, verifique o endereço de e-mail desta newsletter foi enviado para e use o seguinte link: <a href="#" style="text-decoration:none;color:#2DDCB4">Cancelar subscrição</a>.Política de privacidade disponível <a href="#" style="text-decoration:none;color:#2DDCB4">aqui</a>. </mj-text>
+        <mj-text container-background-color="gray" color="#FFFFFF" padding-bottom="0px" font-family="Helvetica,Arial,sans-serif" font-size="10px" line-height="12px">esjanews: <a href="#" style="text-decoration:none;color:#2DDCB4">https://www.esjanews.pt</a> - Contact: <a href="" style="text-decoration:none;color:#2DDCB4">info</a>
+          <br /> Address: Rua da República, 2670-468 Loures,Portugal <br />
+        </mj-text>
         <mj-divider padding-left="0px" padding-right="0px"></mj-divider>
       </mj-column>
     </mj-section>
