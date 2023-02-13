@@ -68,9 +68,11 @@ não sejam confiáveis aos seus dispositivos.</mj-text>
         
       </mj-column>
     </mj-section>
-    <mj-section padding-bottom="0px" padding-top="0px">
-      
-      
+    <mj-section padding="10px 0 20px 0">
+      <mj-column>
+        <mj-image src="https://www.esjaloures.org/escola/images/Untitled-1.png" alt="ESJAL" padding-bottom="0px" padding-top="10px" align="center" height="50px" width="100px"></mj-image>
+        <mj-text align="center" color="#9B9B9B" font-size="11px"><a href="#" style="color: #9B9B9B;">Unsubscribe</a> from this newsletter<br />Rua da República, 2670-468 Loures<br /> </mj-text>
+      </mj-column>
     </mj-section>
   </mj-body>
 </mjml>
